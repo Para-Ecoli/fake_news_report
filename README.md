@@ -1,5 +1,8 @@
-# 中文期刊 LaTeX 模板框架
+# 虚假新闻检测模型训练实验报告
 
+基于[虚假新闻检测模型训练](https://github.com/Para-Ecoli/ali_pai_fake_news)的实验报告，使用计算机学报的中文期刊 LaTeX 模板框架，由overleaf编译。
+
+## 中文期刊 LaTeX 模板框架
 
 2020年8月27日，由cmm@nankai.edu.cn 在以下版本基础上修改。
 屏蔽了一个无意义的warning。增加了参考文献部分。
